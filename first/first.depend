@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1733668071 source:c:\users\d7om\onedrive\desktop\projects c++\first project\first\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<cmath>
+
